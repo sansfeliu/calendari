@@ -1,2 +1,2 @@
-# calendari
+# Calendari
 Calendari dels Països Catalans
